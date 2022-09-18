@@ -1,0 +1,26 @@
+{
+  "name": "soliditytutorial",
+  "version": "1.0.0",
+  "description": "following through tutorial here https://youtu.be/eoQJ6nFZOcs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timbaird/SolidityTutorial.git"
+  },
+  "author": "tim@timbaird.com",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/timbaird/SolidityTutorial/issues"
+  },
+  "homepage": "https://github.com/timbaird/SolidityTutorial#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.10.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.2"
+  }
+}
